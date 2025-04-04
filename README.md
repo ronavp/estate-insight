@@ -46,5 +46,5 @@ Real Estate Market Analysis and Prediction System is a comprehensive platform de
 ### Backend Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/real-estate-market-analysis.git
-   cd real-estate-market-analysis
+   https://github.com/[YOUR_USERNAME]/estate-insight.git
+   cd estate-insight
